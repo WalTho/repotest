@@ -1,3 +1,3 @@
 # repotest
 
-I'm a new branch
+Je suis une nouvelle branche
